@@ -696,7 +696,8 @@ footer{
 
     /* Contact */
     #contact .space-between{
-        display: block;
+        display: grid;
+        margin-right: 20px;
     }
     .contact-box{
         margin-top: 25px;
