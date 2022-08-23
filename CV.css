@@ -96,6 +96,8 @@ header {
 }
 .icons{
     text-align: center;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
 }
 .icon{
     display: inline-block;
